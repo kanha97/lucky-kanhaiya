@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "Y",
+    "site": "lucky-kanhaiya",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
