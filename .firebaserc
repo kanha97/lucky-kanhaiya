@@ -1,5 +1,18 @@
 {
   "projects": {
-    "default": "angular-baby"
-  }
+    "default": "lucky-kanhaiya"
+  },
+  "targets": {
+    "angular-baby": {
+      "hosting": {
+        "lucky-kanhaiya": [
+          "lucky-kanhaiya"
+        ],
+        "angular-baby": [
+          "lucky-kanhaiya"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
